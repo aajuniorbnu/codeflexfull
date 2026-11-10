@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Codeflex - Pagamentos" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="codeplax-pagamentos-api" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.codeplaxpagamentosapi.CodeplaxPagamentosApiApplication" />
+    <envs><env name="BILHETERIA_URL" value="http://localhost:8080" /></envs>
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>

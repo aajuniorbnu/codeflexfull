@@ -1,0 +1,6 @@
+.git
+.env
+.runtime
+**/target
+**/node_modules
+**/dist

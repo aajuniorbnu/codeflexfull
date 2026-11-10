@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Codeflex - Bilheteria" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="codeflex-bilheteria" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.codeflex.bilheteria.BilheteriaApplication" />
+    <envs><env name="PAGAMENTOS_URL" value="http://localhost:8081" /></envs>
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>
