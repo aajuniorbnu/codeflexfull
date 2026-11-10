@@ -1537,7 +1537,7 @@ function Admin({ movies, onRefresh }) {
                       .sort((a, b) =>
                         (a.inicio || "").localeCompare(b.inicio || ""),
                       )
-                      
+
                       .map((s) => (
                         <tr key={s.id}>
                           <td>{s.nome}</td>
